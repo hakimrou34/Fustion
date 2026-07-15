@@ -1,11 +1,302 @@
 [
   {
-    "backgroundImageURL" : "https:\/\/cdn.xperience-app.com\/covers\/default\/streaming_services.netflix.webp",
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/6qXcz4LX\/Stanley_Kubrick.jpg",
     "dataSource" : {
       "kind" : "addonCatalog",
       "payload" : {
-        "addonId" : "https:\/\/xperience-app.com\/manifest\/69b4d970-8486-4961-895d-4e36abd74553\/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MDczMjMyfQ.YvchmiHs9nU6ViNzqA_fHcYQ1Ij3Fx6E28QDmQpdLlk\/manifest.json",
-        "catalogId" : "series::streaming_netflix_series",
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.91028",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.91028",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/xperience-app.com\/manifest\/69b4d970-8486-4961-895d-4e36abd74553\/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MDczMjMyfQ.YvchmiHs9nU6ViNzqA_fHcYQ1Ij3Fx6E28QDmQpdLlk\/manifest.json",
+          "catalogId" : "movie::streaming_paramount_movies",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "AD1CCE9A-165D-4186-8E89-16CD57A2C2B2",
+    "layout" : "Poster",
+    "name" : "Stanley Kubrick"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/3NT190C8\/Alfred_Hitchcock.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.53976",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.53976",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/watchly.elfhosted.com\/694f2137fdfcd56cee1b752b\/manifest.json",
+          "catalogId" : "movie::watchly.rec",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "9EDE6E3B-D248-4F5D-8692-0EF097BD98D8",
+    "layout" : "Poster",
+    "name" : "Alfred Hitchcock"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/kXCNRrM8\/steven_spielberg_2.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.143631",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.143631",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "CC07A8CD-7D6F-4E83-A173-A762DB0728A6",
+    "layout" : "Poster",
+    "name" : "Steven Spielberg"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/wMp2FRcy\/Martin_Scorsese.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.106355",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.106355",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "76FCEC07-97E8-403E-BF02-5AE2E28AD928",
+    "layout" : "Poster",
+    "name" : "Martin Scorsese"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/prHCk5Yx\/Francis_Ford_Coppola.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.75976",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.75976",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "B8834BCC-2DCA-4F19-8DB5-C06A0C93B3E1",
+    "layout" : "Poster",
+    "name" : "Francis Ford Coppola"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/13CDdfGH\/james_cameron_2.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.143633",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.143633",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "A2D1BED2-B0D2-48A8-AE7E-EE5D1C1F0AFD",
+    "layout" : "Poster",
+    "name" : "James Cameron"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/Kvb73Xcw\/quentin_tarantino_2.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.143629",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.143629",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "91226F2D-5563-416F-9403-4E94590A63E1",
+    "layout" : "Poster",
+    "name" : "Quentin Tarantino"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/YCnQPh6X\/christopher-nolan-2.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.143632",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.143632",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "8D85D4EF-BF0C-4158-AF69-A43606608653",
+    "layout" : "Poster",
+    "name" : "Christopher Nolan"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/DycrqCmH\/ridley_scott_2.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.143630",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.143630",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "52C15FAE-8F1C-4068-AF8F-29AF07F6A02C",
+    "layout" : "Poster",
+    "name" : "Ridley Scott"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/8cS4wfB5\/David_Fincher.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.91029",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.91029",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "99F81B93-E932-4980-9158-3F1C43A420E7",
+    "layout" : "Poster",
+    "name" : "David Fincher"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/NMTb1kTF\/Paul_Thomas_Anderson.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.75977",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.75977",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "DB685BC0-1949-46E9-9767-AB84EEBB1519",
+    "layout" : "Poster",
+    "name" : "Paul Thomas Anderson"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/8PC2qFs9\/6545.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "series::mdblist.150391",
         "catalogType" : "series"
       }
     },
@@ -13,23 +304,190 @@
       {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https:\/\/xperience-app.com\/manifest\/69b4d970-8486-4961-895d-4e36abd74553\/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MDczMjMyfQ.YvchmiHs9nU6ViNzqA_fHcYQ1Ij3Fx6E28QDmQpdLlk\/manifest.json",
-          "catalogId" : "series::streaming_netflix_series",
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "series::mdblist.150391",
           "catalogType" : "series"
         }
-      },
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "FF580DE7-AB2F-4A1D-882C-F8E618B6A9B8",
+    "layout" : "Poster",
+    "name" : "David Lynch"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/d1M6WhF4\/villeneuve.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.143635",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
       {
         "kind" : "addonCatalog",
         "payload" : {
-          "addonId" : "https:\/\/xperience-app.com\/manifest\/69b4d970-8486-4961-895d-4e36abd74553\/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MDczMjMyfQ.YvchmiHs9nU6ViNzqA_fHcYQ1Ij3Fx6E28QDmQpdLlk\/manifest.json",
-          "catalogId" : "movie::snoak_netflix_top10_movies",
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.143635",
           "catalogType" : "movie"
         }
       }
     ],
     "hideTitle" : false,
-    "id" : "93949859-9EA5-4D13-85D6-BA00CF09E77F",
-    "layout" : "Wide",
-    "name" : "Netflix"
+    "id" : "B3A68EB7-FB55-49AE-B832-40C85733D7A6",
+    "layout" : "Poster",
+    "name" : "Denis Villeneuve"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/nrJ2T9YL\/Peter_Jackson.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.85399",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.85399",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "791AB633-FD3A-467D-B0AB-AA1FE4B9F4FE",
+    "layout" : "Poster",
+    "name" : "Peter Jackson"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/sXmGv7Pr\/9F0BF3A6-C828-400F-A6F4-E86D2E0C376A.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "series::mdblist.149984",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "series::mdblist.149984",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "238884A9-49ED-4EFF-8DD8-F04471EEA480",
+    "layout" : "Poster",
+    "name" : "Spike Lee"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/T160Q5q2\/Guillermo_del_Toro.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.75982",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.75982",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "67FAC248-3A7B-4EDE-B4AB-A30AFE911C50",
+    "layout" : "Poster",
+    "name" : "Guillermo del Toro"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/DZs5qPsm\/Wes_Anderson.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.119708",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.119708",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "F5E839EC-311F-43E1-8A58-12E1A3A8DE6F",
+    "layout" : "Poster",
+    "name" : "Wes Anderson"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/Y9D1KMSy\/Brian_De_Palma.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.151293",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.151293",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "B6B6AE49-CCC5-480A-B659-8BA346386C09",
+    "layout" : "Poster",
+    "name" : "Brian De Palma"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/bwNQLQtG\/john_carpenter_2.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "catalogId" : "movie::mdblist.143634",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+          "catalogId" : "movie::mdblist.143634",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "652D5336-8455-4479-929D-4F632F1F8EA5",
+    "layout" : "Poster",
+    "name" : "John Carpenter"
   }
 ]
