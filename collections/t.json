@@ -64,4 +64,499 @@
     "id": "33333333-3333-3333-3333-333333333333",
     "layout": "Wide",
     "name": "Disney+"
+      },
+  {
+    "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.prime_video.webp",
+    "dataSource": {
+      "kind": "addonCatalog",
+      "payload": {
+        "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+        "catalogId": "movie::streaming_prime_movies",
+        "catalogType": "movie"
+      }
+    },
+    "dataSources": [
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::streaming_prime_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::streaming_prime_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::snoak_prime_top10_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::snoak_prime_top10_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::snoak_latest_prime_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::snoak_latest_prime_series",
+          "catalogType": "series"
+        }
+      }
+    ],
+    "hideTitle": false,
+    "id": "cecd2fad-8448-4bd3-ba57-40e39204a3df",
+    "layout": "Wide",
+    "name": "Prime Video"
+  }
+    },
+  {
+    "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.disney_plus.webp",
+    "dataSource": {
+      "kind": "addonCatalog",
+      "payload": {
+        "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+        "catalogId": "movie::streaming_disney_movies",
+        "catalogType": "movie"
+      }
+    },
+    "dataSources": [
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::streaming_disney_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::streaming_disney_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::snoak_disney_top10_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::snoak_disney_top10_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::snoak_latest_disney_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::snoak_latest_disney_series",
+          "catalogType": "series"
+        }
+      }
+    ],
+    "hideTitle": false,
+    "id": "74672383-ae41-47ec-a887-4e8866067724",
+    "layout": "Wide",
+    "name": "Disney+"
+  }
+    },
+  {
+    "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.hbo_max.webp",
+    "dataSource": {
+      "kind": "addonCatalog",
+      "payload": {
+        "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+        "catalogId": "movie::streaming_hbo_movies",
+        "catalogType": "movie"
+      }
+    },
+    "dataSources": [
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::streaming_hbo_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::streaming_hbo_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::snoak_hbo_top10_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::snoak_hbo_top10_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::snoak_latest_hbo_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::snoak_latest_hbo_series",
+          "catalogType": "series"
+        }
+      }
+    ],
+    "hideTitle": false,
+    "id": "fe1cd8ef-6e00-4833-98c6-af7d5a178d96",
+    "layout": "Wide",
+    "name": "HBO Max"
+  }
+    },
+  {
+    "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.apple_tv_plus.webp",
+    "dataSource": {
+      "kind": "addonCatalog",
+      "payload": {
+        "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+        "catalogId": "movie::streaming_apple_movies",
+        "catalogType": "movie"
+      }
+    },
+    "dataSources": [
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::streaming_apple_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::streaming_apple_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::snoak_apple_top10_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::snoak_apple_top10_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::snoak_latest_apple_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::snoak_latest_apple_series",
+          "catalogType": "series"
+        }
+      }
+    ],
+    "hideTitle": false,
+    "id": "3e437e1f-5bf8-4123-ae5a-01e76a62fbe5",
+    "layout": "Wide",
+    "name": "Apple TV+"
+  }
+    },
+  {
+    "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.paramount_plus.webp",
+    "dataSource": {
+      "kind": "addonCatalog",
+      "payload": {
+        "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+        "catalogId": "movie::streaming_paramount_movies",
+        "catalogType": "movie"
+      }
+    },
+    "dataSources": [
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::streaming_paramount_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::streaming_paramount_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::snoak_paramount_top10_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::snoak_paramount_top10_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::snoak_latest_paramount_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::snoak_latest_paramount_series",
+          "catalogType": "series"
+        }
+      }
+    ],
+    "hideTitle": false,
+    "id": "8d5a1506-1cf2-49e8-8a95-f3645c45aba1",
+    "layout": "Wide",
+    "name": "Paramount+"
+  }
+    },
+  {
+    "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.hulu.webp",
+    "dataSource": {
+      "kind": "addonCatalog",
+      "payload": {
+        "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+        "catalogId": "movie::streaming_hulu_movies",
+        "catalogType": "movie"
+      }
+    },
+    "dataSources": [
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::streaming_hulu_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::streaming_hulu_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::snoak_latest_hulu_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::snoak_latest_hulu_series",
+          "catalogType": "series"
+        }
+      }
+    ],
+    "hideTitle": false,
+    "id": "88c9cd2e-efda-44de-8fc0-279b077f380e",
+    "layout": "Wide",
+    "name": "Hulu"
+  },
+  {
+    "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.peacock.webp",
+    "dataSource": {
+      "kind": "addonCatalog",
+      "payload": {
+        "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+        "catalogId": "movie::streaming_peacock_movies",
+        "catalogType": "movie"
+      }
+    },
+    "dataSources": [
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::streaming_peacock_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::streaming_peacock_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::kb_peacock_top50_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::streaming_peacock_latest_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::streaming_peacock_latest_series",
+          "catalogType": "series"
+        }
+      }
+    ],
+    "hideTitle": false,
+    "id": "6ee2ad05-9c26-4b88-a32a-880f5ba9f8b9",
+    "layout": "Wide",
+    "name": "Peacock"
+  }
+    },
+  {
+    "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.shudder.webp",
+    "dataSource": {
+      "kind": "addonCatalog",
+      "payload": {
+        "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+        "catalogId": "movie::streaming_shudder_movies",
+        "catalogType": "movie"
+      }
+    },
+    "dataSources": [
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::streaming_shudder_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::streaming_shudder_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::kb_shudder_top50",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "movie::streaming_shudder_latest_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTQyMzE3fQ.XdXyv0f0ClT0dq-9XhovWMApn7Pfl3MTyN2_wdwDj_g/manifest.json",
+          "catalogId": "series::streaming_shudder_latest_series",
+          "catalogType": "series"
+        }
+      }
+    ],
+    "hideTitle": false,
+    "id": "8d1f44f8-8403-45a7-9408-cdf1cb3f5f46",
+    "layout": "Wide",
+    "name": "Shudder"
+  }
 ]
