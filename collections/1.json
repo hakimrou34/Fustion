@@ -1,0 +1,262 @@
+[
+  {
+    "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.netflix.webp",
+    "dataSource": {
+      "kind": "addonCatalog",
+      "payload": {
+        "addonId": "<YOUR_MANIFEST_URL>",
+        "catalogId": "movie::streaming_netflix_movies",
+        "catalogType": "movie"
+      }
+    },
+    "dataSources": [
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "movie::streaming_netflix_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "series::streaming_netflix_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "movie::snoak_netflix_top10_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "series::snoak_netflix_top10_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "movie::snoak_latest_netflix_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "series::snoak_latest_netflix_series",
+          "catalogType": "series"
+        }
+      }
+    ],
+    "hideTitle": false,
+    "id": "11111111-1111-1111-1111-111111111111",
+    "layout": "Wide",
+    "name": "Netflix"
+  },
+  {
+    "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.prime_video.webp",
+    "dataSource": {
+      "kind": "addonCatalog",
+      "payload": {
+        "addonId": "<YOUR_MANIFEST_URL>",
+        "catalogId": "movie::streaming_prime_movies",
+        "catalogType": "movie"
+      }
+    },
+    "dataSources": [
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "movie::streaming_prime_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "series::streaming_prime_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "movie::snoak_prime_top10_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "series::snoak_prime_top10_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "movie::snoak_latest_prime_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "series::snoak_latest_prime_series",
+          "catalogType": "series"
+        }
+      }
+    ],
+    "hideTitle": false,
+    "id": "22222222-2222-2222-2222-222222222222",
+    "layout": "Wide",
+    "name": "Prime Video"
+  },
+  {
+    "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.disney_plus.webp",
+    "dataSource": {
+      "kind": "addonCatalog",
+      "payload": {
+        "addonId": "<YOUR_MANIFEST_URL>",
+        "catalogId": "movie::streaming_disney_movies",
+        "catalogType": "movie"
+      }
+    },
+    "dataSources": [
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "movie::streaming_disney_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "series::streaming_disney_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "movie::snoak_disney_top10_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "series::snoak_disney_top10_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "movie::snoak_latest_disney_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "series::snoak_latest_disney_series",
+          "catalogType": "series"
+        }
+      }
+    ],
+    "hideTitle": false,
+    "id": "33333333-3333-3333-3333-333333333333",
+    "layout": "Wide",
+    "name": "Disney+"
+  },
+  {
+    "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.hbo_max.webp",
+    "dataSource": {
+      "kind": "addonCatalog",
+      "payload": {
+        "addonId": "<YOUR_MANIFEST_URL>",
+        "catalogId": "movie::streaming_hbo_movies",
+        "catalogType": "movie"
+      }
+    },
+    "dataSources": [
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "movie::streaming_hbo_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "series::streaming_hbo_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "movie::snoak_hbo_top10_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "series::snoak_hbo_top10_series",
+          "catalogType": "series"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "movie::snoak_latest_hbo_movies",
+          "catalogType": "movie"
+        }
+      },
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "<YOUR_MANIFEST_URL>",
+          "catalogId": "series::snoak_latest_hbo_series",
+          "catalogType": "series"
+        }
+      }
+    ],
+    "hideTitle": false,
+    "id": "44444444-4444-4444-4444-444444444444",
+    "layout": "Wide",
+    "name": "HBO Max"
+  }
+]
