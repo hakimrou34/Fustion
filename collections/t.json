@@ -128,8 +128,7 @@
     "id": "cecd2fad-8448-4bd3-ba57-40e39204a3df",
     "layout": "Wide",
     "name": "Prime Video"
-  }
-    },
+  },
   {
     "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.disney_plus.webp",
     "dataSource": {
@@ -194,8 +193,7 @@
     "id": "74672383-ae41-47ec-a887-4e8866067724",
     "layout": "Wide",
     "name": "Disney+"
-  }
-    },
+  },
   {
     "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.hbo_max.webp",
     "dataSource": {
@@ -260,8 +258,7 @@
     "id": "fe1cd8ef-6e00-4833-98c6-af7d5a178d96",
     "layout": "Wide",
     "name": "HBO Max"
-  }
-    },
+  },
   {
     "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.apple_tv_plus.webp",
     "dataSource": {
@@ -326,8 +323,7 @@
     "id": "3e437e1f-5bf8-4123-ae5a-01e76a62fbe5",
     "layout": "Wide",
     "name": "Apple TV+"
-  }
-    },
+  },
   {
     "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.paramount_plus.webp",
     "dataSource": {
@@ -392,8 +388,7 @@
     "id": "8d5a1506-1cf2-49e8-8a95-f3645c45aba1",
     "layout": "Wide",
     "name": "Paramount+"
-  }
-    },
+  },
   {
     "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.hulu.webp",
     "dataSource": {
@@ -499,8 +494,7 @@
     "id": "6ee2ad05-9c26-4b88-a32a-880f5ba9f8b9",
     "layout": "Wide",
     "name": "Peacock"
-  }
-    },
+  },
   {
     "backgroundImageURL": "https://cdn.xperience-app.com/covers/default/streaming_services.shudder.webp",
     "dataSource": {
