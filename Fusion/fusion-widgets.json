@@ -1696,6 +1696,558 @@
           ]
         }
       }
+    },
+    {
+      "id": "collection.d5a8ca63-e0f8-44bd-a585-091cbb7daef2",
+      "title": "Watchlist & Trending",
+      "hideTitle": false,
+      "type": "collection.row",
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "id": "9bdbeebc-a088-4cee-bb88-da0294ef3b53",
+              "title": "watchlist",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::trakt_watchlist_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::trakt_watchlist_series",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://github.com/hakimrou34/SL/blob/main/img/watchlist.webp?raw=true"
+            },
+            {
+              "id": "01aef1b8-ae17-44f0-aed4-0d24844dd211",
+              "title": "trendingmovies",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::trending_movies",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://github.com/hakimrou34/SL/blob/main/img/trendingmovies.webp?raw=true"
+            },
+            {
+              "id": "d40efc0b-3e48-4c86-a353-210efa0f1f41",
+              "title": "In Theathers Now",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::now_playing_movies",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://github.com/hakimrou34/SL/blob/main/img/intheathersnow.webp?raw=true"
+            },
+            {
+              "id": "270cad89-5fda-47c7-94a1-bef8d5aaf628",
+              "title": "Trending series",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::trending_series",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://github.com/hakimrou34/SL/blob/main/img/Trending%20series.png?raw=true"
+            },
+            {
+              "id": "5ef09f7b-cda3-4a67-a1d0-f6b09137dded",
+              "title": "Trending",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::trending_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::trending_series",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://github.com/hakimrou34/SL/blob/main/img/trending.jpg?raw=true"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "collection.af008132-72e5-4eff-9a5f-4e3ba6ba432b",
+      "title": "Genres",
+      "hideTitle": false,
+      "type": "collection.row",
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "id": "9ad5a881-7b7e-45a4-a49e-ee4f101fa004",
+              "title": "Action",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_action_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::genre_action_series",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/Gm3p0kW7/action.jpg"
+            },
+            {
+              "id": "a8686226-5b94-474a-9eed-2c7de80edca2",
+              "title": "Adventure",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_adventure_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::genre_adventure_series",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/y86Nqmq6/adventure.jpg"
+            },
+            {
+              "id": "2c01dec2-5b2e-48bc-bded-91aaf93d22ae",
+              "title": "Animation",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_animation_toprated_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::genre_animation_toprated_series",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/9QxQcDVF/animation.jpg"
+            },
+            {
+              "id": "6de0b1c9-cc7f-4694-988e-3eba62315f9a",
+              "title": "Comedy",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_comedy_toprated_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::genre_comedy_toprated_series",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/YShq0tqR/comedy.jpg"
+            },
+            {
+              "id": "398e5190-a67b-428f-bc26-8996d1a1978a",
+              "title": "Crime",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_crime_toprated_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::genre_crime_toprated_series",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/rpKFsqFJ/crime.jpg"
+            },
+            {
+              "id": "cc2b7a5f-ffa6-464b-8e87-7debed2a20ce",
+              "title": "Drama TV",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_drama_toprated_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::genre_drama_toprated_series",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/q7SBCWzb/drama.jpg"
+            },
+            {
+              "id": "226d0a19-a9ae-4dab-8307-626e531a9014",
+              "title": "Family",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_family_toprated_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::genre_family_toprated_series",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/DwC98j4X/Family.png"
+            },
+            {
+              "id": "5d848886-c8cc-41bb-9f88-3fdda06b274b",
+              "title": "Fantasy",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_fantasy_toprated_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::genre_fantasy_toprated_series",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/wBZxsn1q/fantasy.jpg"
+            },
+            {
+              "id": "9f0a2b58-1967-460e-ba8f-90cef281f8d8",
+              "title": "History",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_history_toprated_movies",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/CKXMf9RV/history.jpg"
+            },
+            {
+              "id": "82c6a12a-f240-4694-93c8-9793f0a7c2fe",
+              "title": "Horror",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_horror_toprated_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::genre_horror_series",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/VNpsb2Jd/horror.jpg"
+            },
+            {
+              "id": "d144e847-8c4e-4c10-adbb-80f81fffca69",
+              "title": "Mystery",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_mystery_toprated_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::genre_mystery_toprated_series",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/Ss9SLV9M/mystery.jpg"
+            },
+            {
+              "id": "dd421fd3-7ecc-45f1-b545-87530cda0cba",
+              "title": "Romance",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_romance_toprated_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::genre_romance_toprated_series",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/90jWLTPb/romance.jpg"
+            },
+            {
+              "id": "fec26780-b91e-4068-b769-8b974064b809",
+              "title": "Sci-Fi",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_scifi_toprated_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::genre_scifi_toprated_series",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/LXP9kvPV/sci-fi.jpg"
+            },
+            {
+              "id": "fbdcb08b-6723-4096-b7b1-2844186f7c0e",
+              "title": "Stand-Up Comedy",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::themed_standup_comedy_movies",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://cdn.tix.no/tix/EventImages/Event_19937.jpg"
+            },
+            {
+              "id": "ba8431aa-3146-4dbd-9f5f-cb3f68438c24",
+              "title": "Thriller",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_thriller_toprated_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::genre_thriller_series",
+                    "type": "series"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_thriller_movies",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/sxRVTS9d/thriller.jpg"
+            },
+            {
+              "id": "c65f283f-b6e4-4b4a-9758-a4b8097cdfcb",
+              "title": "War",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_war_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::genre_war_series",
+                    "type": "series"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::themed_history_war_movies",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/yxzVL9XB/war.jpg"
+            },
+            {
+              "id": "0ae962bb-1f03-4cc5-83fb-f47cb266d757",
+              "title": "Western",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::genre_westerns_movies",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "series::genre_westerns_series",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/Qtvrh9Yw/EBR%20TVA%20WW%20WESTERNS.webp"
+            }
+          ]
+        }
+      }
     }
   ]
 }
